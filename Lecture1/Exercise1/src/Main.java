@@ -5,4 +5,5 @@ void main() {
     // to see how IntelliJ IDEA suggests fixing it.
 
     System.out.println("Hello world!!");
+    System.out.println("Test test test");
 }
